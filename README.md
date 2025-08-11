@@ -29,4 +29,3 @@ It allows users to add expenses, categorize them, store them in a database, and 
 
 ---
 
-## 📂 Project Structure
